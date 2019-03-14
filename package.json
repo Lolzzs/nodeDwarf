@@ -1,0 +1,23 @@
+{
+  "name": "nodedwarf",
+  "version": "1.0.0",
+  "description": "server zobrazi data z dwarf poolu",
+  "main": "nodeDwarf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lolzzs/nodeDwarf.git"
+  },
+  "author": "lolzzs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lolzzs/nodeDwarf/issues"
+  },
+  "homepage": "https://github.com/Lolzzs/nodeDwarf#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
