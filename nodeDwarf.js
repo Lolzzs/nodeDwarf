@@ -7,7 +7,7 @@ var app = express();
 
 
 
-
+// pro git hub
 
 var adr = 'http://dwarfpool.com/eth/api?wallet=0xbdB26007E0910708FB8f5c0695fc486be411EDD0&email=standa.rysanek@gmail.com';
 var q = url.parse(adr, true);
